@@ -41,7 +41,7 @@
 		8839EBFD29478D6100C444F4 = {
 			isa = PBXGroup;
 			children = (
-				8839EC0829478D6100C444F4 /* Microservice */,
+				8839EC0829478D6100C444F4 /* api */,
 				8839EC0729478D6100C444F4 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -54,12 +54,12 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		8839EC0829478D6100C444F4 /* Microservice */ = {
+		8839EC0829478D6100C444F4 /* api */ = {
 			isa = PBXGroup;
 			children = (
 				8839EC0929478D6100C444F4 /* main.cpp */,
 			);
-			path = Microservice;
+			path = api;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
